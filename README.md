@@ -1,8 +1,8 @@
 #PHP gallery uploader  
 I have previously created a similar uploader but with the help of MySQL.  
 In this version the data is stored in a csv file.  
-
-#FILES
+  
+#FILES  
 csv_to_array.php - store the data from the csv file into a two dimensional associative array  
 editgallery.php - show a list of albums (actions: add, edit, delete)  
 addgallery.php - add a new album  
